@@ -1,0 +1,73 @@
+body, html {
+  height: 100%;
+  background: ##ffffff;
+}
+
+header {
+text-align: center;
+font-family: sans-serif;
+font-size: 40px;
+font-weight: bold;
+margin: 20px;
+}
+
+
+h1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 20px;
+  margin-left: -706px;
+}
+
+img {
+	float: right;
+	padding:4px;
+    border:2px solid #021a40;
+}
+/*
+div style {
+	text-align: left;
+	margin-left: 145;
+}
+*/
+
+p {
+	margin-left: 125px;
+	margin-right: 340px;
+	position: relative;
+	text-align: justify;
+	margin-top: -15px;
+}
+
+
+.style1 {
+    max-width: 1015px;
+    margin-left: 125px;
+}
+
+.style2 {
+	max-width: 770px;
+	margin-left: 125px;
+}
+
+
+/*
+.id {
+	padding-left: 10px;
+}
+*/
+
+/*
+hr.style1 { 
+
+}
+
+hr.style2 {
+
+}
+
+
+
+
+
+
